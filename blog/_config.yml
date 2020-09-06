@@ -10,7 +10,7 @@ head-title: Hvtroller
 title: Blog linh tinh
 
 baseurl: "/blog"    # the subpath of your site, "/blog"
-url: ""
+url: "https://Hvtroller.github.io"
 
 # footer 
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
